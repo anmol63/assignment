@@ -77,15 +77,15 @@ body{
 @media(min-width: 767px)
 {
 	#anmol{
-		width:25%;
+		width:100px;
 	}
 	#beef{
-		width:25%;
+		width:100px;
 	}
 	#sushi{
-		width:25%;
+		width:100px;
 	}
-	h2{width:25%;
-		margin-left: 25%;
+	h2{width:100px;
+		margin-left: 50px;
 	}
 }
