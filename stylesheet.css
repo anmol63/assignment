@@ -55,8 +55,8 @@ body{
 	#sushi{
 		width: 400px;
 	}
-	h2{width:100px;
-		margin-left: 220px;}
+	h2{width:400px;
+		margin-left: 110px;}
 }
 @media(min-width: 991px)and(max-width: 768px)
 {
